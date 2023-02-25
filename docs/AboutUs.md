@@ -48,7 +48,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Integration and Testing
 * Responsibilities: Focusing on UI, integration and testing for the team.
 
-### James Doe
+### Hello therererererere Yirtongngognerogrne
 
 <img src="images/johndoe.png" width="200px">
 
