@@ -13,6 +13,9 @@ This User Guide will guide you through installing the app, getting familiarised 
 If this is your first time using this Guide, you may refer to this segment
 on [how to use our User Guide](#how-to-use-the-user-guide)
 
+<div style="page-break-after: always;"></div>
+
+
 ## Table of Contents
 * Table of Contents
 {:toc}
